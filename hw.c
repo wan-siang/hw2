@@ -1,9 +1,9 @@
 #include	"basic.h"
-#include	"BST.h"
-#include	"Array.h"
-#include	"Array_Binary_Search.h"
-#include	"Linked_list.h"
-#include	"hash.h"
+#include	"BST.c"
+#include	"Array.c"
+#include	"Array_Binary_Search.c"
+#include	"Linked_list.c"
+#include	"hash.c"
 
 char	*word[1000000];
 
@@ -189,4 +189,3 @@ int	main(int argc, char *argv[])
 	}
 
 }
-
