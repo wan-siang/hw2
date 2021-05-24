@@ -2,7 +2,7 @@
 #include	"hash.h"
 
 unsigned int hash65(char *key){
-  unsigned int	hv = 0;
+  	unsigned int	hv = 0;
 	char 	*ptr = key;
 
 	while(*ptr){
